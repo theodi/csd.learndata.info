@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "582c39464d7b7e82691e43fd",
+    "_parentId": "582c39464d7b7e82691e43fc",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "582c39484d7b7e82691e4400",
+    "_parentId": "582c39484d7b7e82691e43ff",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  "
+  },
+  {
+    "_id": "582c39494d7b7e82691e4403",
+    "_parentId": "582c39494d7b7e82691e4402",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  "
+  }
+]

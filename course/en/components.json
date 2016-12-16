@@ -1,0 +1,850 @@
+[
+  {
+    "_id": "582c3afc4d7b7e82691e4407",
+    "_layout": "right",
+    "_parentId": "582c39464d7b7e82691e43fe",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "   ",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f61b2099b1116607087b99490e45eefa64a59ad5.png",
+      "small": "course/en/assets/f61b2099b1116607087b99490e45eefa64a59ad5.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "585035944e62ce485eb1465b",
+    "_layout": "left",
+    "_parentId": "585035824e62ce485eb14654",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/28119d3ac6852c7c89ced4ac0e2587b10ba41273.jpeg",
+      "small": "course/en/assets/28119d3ac6852c7c89ced4ac0e2587b10ba41273.jpeg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584e73f34d7b7e82691e4e2c",
+    "_layout": "full",
+    "_parentId": "582c39494d7b7e82691e4404",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "584eb85a4e62ce485eb14523",
+    "_layout": "right",
+    "_parentId": "584eb8204e62ce485eb1451c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "   ",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/396feafe1ba9d74f3ed00ad7f0383ec3371f8382.jpg",
+      "small": "course/en/assets/396feafe1ba9d74f3ed00ad7f0383ec3371f8382.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5846aa764d7b7e82691e4b89",
+    "_layout": "full",
+    "_parentId": "5846aa364d7b7e82691e4b88",
+    "_type": "component",
+    "body": "<p>While open data in the Caribbean is still in its early stages of adoption, momentum has been steadily building among key stakeholders&nbsp;in the region. Below are some examples of how open data is helping&nbsp;agriculture in the Caribbean.</p>\n",
+    "displayTitle": "Case studies from the Caribbean ",
+    "title": "Case studies from the Caribbean ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "AgriNeTT",
+        "body": "<p><strong>Where:&nbsp;</strong>Trinidad and&nbsp;Tobago.</p>\n\n<p><strong>Who: </strong>The University of the West Indies in collaboration with&nbsp;industry experts.</p>\n\n<p><strong>What:</strong>&nbsp;An&nbsp;open data repository, containing datasets from institutions and associations. Datasets included are&nbsp;farm-level production data;&nbsp;commodity prices and volumes;&nbsp;farm land spatial data;&nbsp;soils data;&nbsp;weather&nbsp;data; and pest and diseases tracking data.</p>\n\n<p><strong>Why: </strong>For local developers to visualise the data and&nbsp;build applications that are useful to the community.&nbsp;</p>\n\n<p><a href=\"http://sta.uwi.edu/rdifund/projects/agrinett/\">Take me to the AgriNeTT website</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/222afd50e3bb3c41a04aea63e106d4258fbb04a2.jpg",
+          "alt": ""
+        },
+        "strapline": "Agrinett"
+      },
+      {
+        "title": "CIRP-mFisheries",
+        "body": "<p><strong>Where:&nbsp;</strong>Trinidad and Tobago.</p>\n\n<p><strong>Who: </strong>The Caribbean ICT Research Programme.<br />\n<br />\n<strong>What:</strong>&nbsp;A suite of mobile applications designed to improve market conditions, efficiency and safety for small-scale fisherfolk in Trinidad and Tobago.</p>\n\n<p><strong>Why:</strong>&nbsp;The government has prioritised development&nbsp;in the fishing industry on account of its economic and social significance. It&nbsp;aims to make this sector competitive, sustainable and profitable, as well as inclusive, equitable and supportive of the local fishing communities.&nbsp;<br />\n<br />\n<a href=\"http://cirp.org.tt/mfisheries/\">Take me to the&nbsp;mFisheries website</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/b919350a40a09c3be147625951deba50d24f3b3d.jpg",
+          "alt": ""
+        },
+        "strapline": "fish"
+      },
+      {
+        "title": "National Agricultural Market Information System (NAMIS)",
+        "body": "<p><strong>Where:</strong>&nbsp;Trinidad and Tobago.</p>\n\n<p><strong>Who:</strong>&nbsp;The&nbsp;National Agricultural Marketing and Development Corporation.</p>\n\n<p><strong>What:&nbsp;</strong>NAMIS publishes&nbsp;buyer and exporter information, as well as price, volume and production data.</p>\n\n<p><strong>Why: </strong>To stimulate&nbsp;investments in the agri-food sector by providing data&nbsp;for making strategic, investment, management and policy decisions by all stakeholders.</p>\n\n<p><a href=\"http://www.namistt.com/\">Take me to the&nbsp;NAMIS website</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg",
+          "alt": ""
+        },
+        "strapline": "NAMIS"
+      },
+      {
+        "title": "HarvestAPI",
+        "body": "<p><strong>Where:&nbsp;</strong>Jamaica.</p>\n\n<p><strong>Who:&nbsp;</strong>SlashRoots Foundation and the Rural Agricultural Development Authority.</p>\n\n<p><strong>What:&nbsp;</strong>HarvestAPI is an open source platform that publishes&nbsp;agricultural data across government agencies and with the public. The platform is being developed to increase access to the Government of Jamaica Farmer register.&nbsp;</p>\n\n<p><strong>Why: </strong>Opening up data catalyses innovation in the sector&nbsp;and, in the process, helps overcome some of the structural challenges that limit the access, use and maintenance of quality agricultural data.</p>\n\n<p><a href=\"http://harvestapi.io/\">Take me to the&nbsp;HarvestAPI website</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/4462daa4541eb11f9a09ea005d9f160480451597.jpg",
+          "alt": ""
+        },
+        "strapline": "harvest"
+      },
+      {
+        "title": "Jamaica Agricultural Marketing Information System (JAMIS)",
+        "body": "<p><strong>Where: </strong>Jamaica.<br />\n<br />\n<strong>Who:</strong> The&nbsp;Ministry of Agriculture and Fisheries, Information Division &amp; RADA.<br />\n<br />\n<strong>What: </strong>A&nbsp;service that provides unbiased data on farm gates, markets, ad wholesale and retail prices&nbsp;on a weekly basis.<br />\n<br />\n<strong>Why: </strong>To provide accurate and unbiased marketing information depicting current trade conditions. The aim is to&nbsp;promote orderly marketing and enhance competition.&nbsp;<br />\n<br />\n<a href=\"http://www.ja-mis.com/Companionsite/about.aspx?id=0\">Take me to the&nbsp;JAMIS website</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/6dea7973eea11fc47543bdaa6c2659525fc6656b.png",
+          "alt": ""
+        },
+        "strapline": "hey"
+      }
+    ]
+  },
+  {
+    "_id": "584e78b34d7b7e82691e4e44",
+    "_layout": "left",
+    "_parentId": "584e78b34d7b7e82691e4e43",
+    "_type": "component",
+    "body": "<p>Data is open if anyone can access, use and share it.<br />\nThere are some simple things to consider when defining openness:</p>\n",
+    "displayTitle": "What makes data open?",
+    "title": "What makes data open?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Limitations",
+        "body": "<p>For data to be open, it should have no limitations that prevent it from being used in any particular way.</p>\n\n<p>Anyone should be free to use, modify, combine and share the data, even commercially.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Cost",
+        "body": "<p>Open data must be free to use, but this does not mean that it must be free to access.</p>\n\n<p>There is often a cost to creating, maintaining and publishing usable data.</p>\n\n<p>Ideally, any fee for accessing open data should be no more than the reasonable reproduction cost of the unit of data that is requested.</p>\n\n<p>This reproduction cost tends to be negligible for many datasets.</p>\n\n<p>Live data and big data can incur ongoing costs related to reliable service provision.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reuse",
+        "body": "<p>Once the user has the data, they are free to use, reuse and redistribute it &ndash; even commercially.</p>\n\n<p>Open data is measured by what it can be used for, not by how it is made available.</p>\n\n<p>Aspects like format, structure and machine readability all make data more usable, and should all be carefully considered.</p>\n\n<p>However, these do not make the data more open.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584e78b34d7b7e82691e4e45",
+    "_layout": "right",
+    "_parentId": "584e78b34d7b7e82691e4e43",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "   ",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "small": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584e78cf4d7b7e82691e4e4a",
+    "_layout": "right",
+    "_parentId": "584e78cf4d7b7e82691e4e49",
+    "_type": "component",
+    "body": "<p>Open data is data that&nbsp;<strong>anyone can access, use and share</strong>.</p>\n\n<p>Open data becomes usable when made available in a common, machine-readable format.</p>\n\n<p>Open data must be licensed. Its licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>\n",
+    "displayTitle": "What is open data?",
+    "title": "What is open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584e78cf4d7b7e82691e4e4b",
+    "_layout": "left",
+    "_parentId": "584e78cf4d7b7e82691e4e49",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "   ",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/2201d0a21753f4322792d9ec249b0f75bdb0b6e3.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "582c40944d7b7e82691e440e",
+    "_layout": "full",
+    "_parentId": "582c40554d7b7e82691e440b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "What is data, and why is it useful?",
+    "title": "What is data, and why is it useful?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data",
+        "body": "<p>Data is the raw material from which information and knowledge can be derived.</p>\n\n<p>Data can be quantities, characters and symbols. It can come in the form of images, descriptions, reviews, prices or anything else that could form the basis of information.&nbsp;</p>\n\n<p>For example, the number of ackee trees growing in farms across a region, recorded in a spreadsheet, is data. The number of trees is the data, and the spreadsheet that holds the data is the dataset. &nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
+          "alt": ""
+        },
+        "strapline": "Data "
+      },
+      {
+        "title": "Information ",
+        "body": "<p>Data becomes information when it is given a context.</p>\n\n<p>For example, in comparing the number of ackee trees to the geographical location of the farms, it might be deduced that there are more ackee trees in the north of the region than in the south.</p>\n\n<p>The collection and presentation of data helps to form information.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg",
+          "alt": ""
+        },
+        "strapline": "Information "
+      },
+      {
+        "title": "Knowledge",
+        "body": "<p>Knowledge is what is derived from information and personalised for your needs. Information turns to knowledge when you are able to make informed decisions or choices.</p>\n\n<p>For example, drawing on information that there are more ackee trees in the northern region, a supermarket that wishes to provide more ackee trees might choose to source them from suppliers in the northern region.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+          "alt": ""
+        },
+        "strapline": "Knowledge"
+      }
+    ]
+  },
+  {
+    "_id": "584eb9ab4e62ce485eb14528",
+    "_layout": "right",
+    "_parentId": "584eb9964e62ce485eb14526",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a7fe1ac5226a9515c508da6a8d8e59cc6a915f8a.png",
+      "small": "course/en/assets/a7fe1ac5226a9515c508da6a8d8e59cc6a915f8a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584eb9a84e62ce485eb14527",
+    "_layout": "left",
+    "_parentId": "584eb9964e62ce485eb14526",
+    "_type": "component",
+    "body": "<p>Data is the raw components which make up information and knowledge.&nbsp;</p>\n\n<p>Open data is data that anyone can access, use and share.&nbsp;</p>\n\n<p>Using open data in agriculture will increase the efficiency of logistics, make better decisions which can improve crop yield, promote collaboration across the sector, identify where processes could be improved and create new businesses and services, to name a few.&nbsp;</p>\n\n<p>But open data is only valuable where it is being used. Some organisations and projects in the Caribbean are making huge steps towards improving the sector with open data. To harness the full potential of open data, and to get actors across the production chain sharing and using key&nbsp;datasets,&nbsp;the sector needs to adopt a culture of data.&nbsp;</p>\n",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "585035914e62ce485eb1465a",
+    "_layout": "right",
+    "_parentId": "585035824e62ce485eb14654",
+    "_type": "component",
+    "body": "<p>And as the world&rsquo;s population grows from 7.4 billion to potentially 10 billion by 2050, the agricultural system will play a key role in ensuring our global demands can be met. Open data could be a&nbsp;key driver in improving the agricultural sector worldwide. In the Caribbean, there is huge potential to use open data to solve problems, improve processes and drive innovation&nbsp;within agriculture.&nbsp;</p>\n",
+    "displayTitle": "The benefits of open data for agriculture",
+    "title": "The benefits of open data for agriculture",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the headings below to explore more",
+    "_items": [
+      {
+        "title": "Increasing efficiency",
+        "body": "<p>Open data can improve the efficiency of&nbsp;logistics and make processes much more streamlined.&nbsp;</p>\n\n<p>Jamaica often suffers from coordination problems both in times of drought and of plenty. Open data platforms, which match demand and&nbsp;supply, can streamline crop production and planning.&nbsp;</p>\n\n<p>Access to consumption, production and crop maturity data can also enable policy-makers to make data-driven decisions on whether to increase or decrease local production and how much to export.</p>\n\n<p>Enhanced access to geospatial and meteorological data helps farmers make better decisions about where and when to plant for the maximum&nbsp;yield, and how changes in weather patterns might affect crops.&nbsp;</p>\n\n<p><s>Using open data to drive mobile applications can also provide on-demand access to agricultural data from&nbsp;individuals and governments, supporting farmers working on the fields.&nbsp;</s></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Increasing transparency",
+        "body": "<p>Open data has the power to increase transparency in the agricultural sector.</p>\n\n<p>Open access to procurement data can help ensure that procurement&nbsp;processes have been followed and best value&nbsp;tools and products have been invested in.</p>\n\n<p>Open data can also help reduce decrease praedial larceny (theft of agricultural produce or livestock)&nbsp;in the Caribbean, which poses a huge threat to the sector.</p>\n\n<p>Tracking the location of products from farm to fork with real time data can help to reduce instances of&nbsp;praedial larceny. Collecting&nbsp;and analysing open theft data will allow authorities to identify where in the production chain the thefts occur, and improve attempts to prevent them.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Driving innovation",
+        "body": "<p dir=\"ltr\">Publishing&nbsp;official open government agriculture data enables technical developers and domain experts to innovate and create products and services which boost the agriculture ecosystem.</p>\n\n<p>Small startup ventures such as<a href=\"http://agrocentral.co/\"> Agrocentral</a> and <a href=\"http://harvestapi.io\">HarvestAPI</a>&nbsp;have started using&nbsp;agriculture price and production data produced by the Caribbean Ministry of Agriculture.</p>\n\n<p>Other organisations, such as the <a href=\"https://www.climate.com/\">Climate Corporation</a>, have leveraged climate and soil open data to develop insurance products which help farmers protect and improve their farming operations, raising over $100m in venture capital.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584eb5354e62ce485eb1450b",
+    "_layout": "right",
+    "_parentId": "584eb5234e62ce485eb14509",
+    "_type": "component",
+    "body": "<p><strong>Open data has the potential to...</strong></p>\n",
+    "displayTitle": "Which TWO of the following are benefits of open data in agriculture?",
+    "title": "Which TWO of the following are benefits of open data in agriculture?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose two answers, then click 'Submit'",
+    "_items": [
+      {
+        "text": "help make better decisions about where and when to plant crops",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "increase praedial larceny through product location tracking",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "decrease praedial larceny through product location tracking",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Amongst other benefits, open data can help make better decisions and solve critical problems in agriculture, such as praedial larceny.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Amongst other benefits, open data can help make better decisions and solve critical problems in agriculture, such as praedial larceny.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584eb1e64e62ce485eb144f5",
+    "_layout": "left",
+    "_parentId": "584eb1e64e62ce485eb144f4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584e8ba54d7b7e82691e4e64",
+    "_layout": "right",
+    "_parentId": "584e8b8b4d7b7e82691e4e62",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584eb52e4e62ce485eb1450a",
+    "_layout": "left",
+    "_parentId": "584eb5234e62ce485eb14509",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/28119d3ac6852c7c89ced4ac0e2587b10ba41273.jpeg",
+      "small": "course/en/assets/28119d3ac6852c7c89ced4ac0e2587b10ba41273.jpeg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584e8acc4d7b7e82691e4e5f",
+    "_layout": "right",
+    "_parentId": "584e8aba4d7b7e82691e4e5d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584eb8584e62ce485eb14522",
+    "_layout": "left",
+    "_parentId": "584eb8204e62ce485eb1451c",
+    "_type": "component",
+    "body": "<p><strong>AgriNeTT are...</strong></p>\n",
+    "displayTitle": "How are AgriNeTT using open data to create value?",
+    "title": "How are AgriNeTT using open data to create value?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": " Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "collating lots of open data to make data art",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "teaching others about open data internationally",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "building an agriculture open data repository for developers to use",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>AgriNeTT are creating an open data portal using open agriculture data. This enables developers to build apps that&nbsp;are useful for the community.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>AgriNeTT are creating an open data portal using open agriculture data. This enables developers to build apps that are useful for the community.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584e8ac84d7b7e82691e4e5e",
+    "_layout": "left",
+    "_parentId": "584e8aba4d7b7e82691e4e5d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to apply open data to Caribbean agriculture?",
+    "title": "Are you ready to apply open data to Caribbean agriculture?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two inverted section-banner",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584e73fe4d7b7e82691e4e2d",
+    "_layout": "full",
+    "_parentId": "582c39484d7b7e82691e4401",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "582c3af84d7b7e82691e4406",
+    "_layout": "left",
+    "_parentId": "582c39464d7b7e82691e43fe",
+    "_type": "component",
+    "body": "<p>Open data is data that anyone can access, use and share.&nbsp;Governments, businesses and individuals can use open data to help bring about social, economic and environmental benefits.</p>\n\n<p><strong>In this module, we will explore the following:</strong></p>\n\n<p>✓ What is data and what is open data?</p>\n\n<p>✓ What makes data open?</p>\n\n<p>✓ What are the benefits of open data for agriculture?</p>\n\n<p>✓ Case studies of open data and agriculture in&nbsp;the Caribbean&nbsp;</p>\n",
+    "displayTitle": "Open Data and Agriculture",
+    "title": "Open Data and Agriculture",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584eb1e64e62ce485eb144f8",
+    "_layout": "right",
+    "_parentId": "584eb1e64e62ce485eb144f4",
+    "_type": "component",
+    "body": "<p><strong>Data is...</strong></p>\n",
+    "displayTitle": "What is data?",
+    "title": "What is data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "information posted on the Web",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "the raw material from which information and knowledge can be derived",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "numbers, words, maps and photos",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584e8ba24d7b7e82691e4e63",
+    "_layout": "left",
+    "_parentId": "584e8b8b4d7b7e82691e4e62",
+    "_type": "component",
+    "body": "<p><strong>Open data is...</strong></p>\n",
+    "displayTitle": "What is open data?",
+    "title": "What is open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Data that is free of charge for anyone to use for any purpose",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data that anyone can access, use and share",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data that has the potential to become information ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Whereas all data has the potential to become information, open data is data that anyone can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. It might not always come&nbsp;free of charge, although it must be freely available.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Whereas all data has the potential to become information, open data is data that anyone can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. It might not always come&nbsp;free of charge, although it must be freely available.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]

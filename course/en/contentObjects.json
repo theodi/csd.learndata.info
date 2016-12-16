@@ -1,0 +1,93 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg"
+    },
+    "_id": "582c39464d7b7e82691e43fc",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Using open data in agriculture can help make processes more&nbsp;efficient, target decision making and promote collaboration. In this module, we look at what open data is and&nbsp;how it can benefit the agricultural sector, with examples of where open data is already being used.</p>\n",
+    "displayTitle": "Open Data and Agriculture",
+    "title": "Open Data and Agriculture",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Describe the benefits of open data for agriculture",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Explain case studies of open data and agriculture in the Caribbean",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_id": "582c39484d7b7e82691e43ff",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "hidden",
+    "body": "",
+    "displayTitle": "Agribusiness",
+    "title": "Agribusiness",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_id": "582c39494d7b7e82691e4402",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "hidden",
+    "body": "",
+    "displayTitle": "Creating modules ",
+    "title": "Creating modules ",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    }
+  }
+]
