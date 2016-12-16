@@ -16,28 +16,31 @@
     "body": "<p>Using open data in agriculture can help make processes more&nbsp;efficient, target decision making and promote collaboration. In this module, we look at what open data is and&nbsp;how it can benefit the agricultural sector, with examples of where open data is already being used.</p>\n",
     "displayTitle": "Open Data and Agriculture",
     "title": "Open Data and Agriculture",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Define open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define open data"
         },
         {
-          "outcome": "Describe the benefits of open data for agriculture",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe the benefits of open data for agriculture"
         },
         {
-          "outcome": "Explain case studies of open data and agriculture in the Caribbean",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain case studies of open data and agriculture in the Caribbean"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -57,12 +60,15 @@
     "body": "",
     "displayTitle": "Agribusiness",
     "title": "Agribusiness",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -82,12 +88,15 @@
     "body": "",
     "displayTitle": "Creating modules ",
     "title": "Creating modules ",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   }
 ]
