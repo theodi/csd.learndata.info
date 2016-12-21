@@ -79,8 +79,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/396feafe1ba9d74f3ed00ad7f0383ec3371f8382.jpg",
-      "small": "course/en/assets/396feafe1ba9d74f3ed00ad7f0383ec3371f8382.jpg",
+      "large": "course/en/assets/8a2c5dbc7de0f536db4c13de635325eb45d3886c.jpg",
+      "small": "course/en/assets/8a2c5dbc7de0f536db4c13de635325eb45d3886c.jpg",
       "attribution": ""
     }
   },
@@ -104,6 +104,24 @@
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
+      {
+        "title": "HarvestAPI",
+        "body": "<p><strong>Where:&nbsp;</strong>Jamaica.</p>\n\n<p><strong>Who:&nbsp;</strong>SlashRoots Foundation and the Rural Agricultural Development Authority.</p>\n\n<p><strong>What:&nbsp;</strong>HarvestAPI is an open source platform that publishes&nbsp;agricultural data across government agencies and with the public. The platform is being developed to increase access to the Government of Jamaica Farmer register.&nbsp;</p>\n\n<p><strong>Why: </strong>Opening up data catalyses innovation in the sector&nbsp;and, in the process, helps overcome some of the structural challenges that limit the access, use and maintenance of quality agricultural data.</p>\n\n<p><a href=\"http://harvestapi.io/\">Take me to the&nbsp;HarvestAPI website</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/4462daa4541eb11f9a09ea005d9f160480451597.jpg",
+          "alt": ""
+        },
+        "strapline": "harvest"
+      },
+      {
+        "title": "Jamaica Agricultural Marketing Information System (JAMIS)",
+        "body": "<p><strong>Where: </strong>Jamaica.<br />\n<br />\n<strong>Who:</strong> The&nbsp;Ministry of Agriculture and Fisheries, Information Division &amp; RADA.<br />\n<br />\n<strong>What: </strong>A&nbsp;service that provides unbiased data on farm gates, markets, ad wholesale and retail prices&nbsp;on a weekly basis.<br />\n<br />\n<strong>Why: </strong>To provide accurate and unbiased marketing information depicting current trade conditions. The aim is to&nbsp;promote orderly marketing and enhance competition.&nbsp;<br />\n<br />\n<a href=\"http://www.ja-mis.com/Companionsite/about.aspx?id=0\">Take me to the&nbsp;JAMIS website</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/6dea7973eea11fc47543bdaa6c2659525fc6656b.png",
+          "alt": ""
+        },
+        "strapline": "hey"
+      },
       {
         "title": "AgriNeTT",
         "body": "<p><strong>Where:&nbsp;</strong>Trinidad and&nbsp;Tobago.</p>\n\n<p><strong>Who: </strong>The University of the West Indies in collaboration with&nbsp;industry experts.</p>\n\n<p><strong>What:</strong>&nbsp;An&nbsp;open data repository, containing datasets from institutions and associations. Datasets included are&nbsp;farm-level production data;&nbsp;commodity prices and volumes;&nbsp;farm land spatial data;&nbsp;soils data;&nbsp;weather&nbsp;data; and pest and diseases tracking data.</p>\n\n<p><strong>Why: </strong>For local developers to visualise the data and&nbsp;build applications that are useful to the community.&nbsp;</p>\n\n<p><a href=\"http://sta.uwi.edu/rdifund/projects/agrinett/\">Take me to the AgriNeTT website</a></p>\n",
@@ -130,24 +148,6 @@
           "alt": ""
         },
         "strapline": "NAMIS"
-      },
-      {
-        "title": "HarvestAPI",
-        "body": "<p><strong>Where:&nbsp;</strong>Jamaica.</p>\n\n<p><strong>Who:&nbsp;</strong>SlashRoots Foundation and the Rural Agricultural Development Authority.</p>\n\n<p><strong>What:&nbsp;</strong>HarvestAPI is an open source platform that publishes&nbsp;agricultural data across government agencies and with the public. The platform is being developed to increase access to the Government of Jamaica Farmer register.&nbsp;</p>\n\n<p><strong>Why: </strong>Opening up data catalyses innovation in the sector&nbsp;and, in the process, helps overcome some of the structural challenges that limit the access, use and maintenance of quality agricultural data.</p>\n\n<p><a href=\"http://harvestapi.io/\">Take me to the&nbsp;HarvestAPI website</a></p>\n",
-        "_graphic": {
-          "src": "course/en/assets/4462daa4541eb11f9a09ea005d9f160480451597.jpg",
-          "alt": ""
-        },
-        "strapline": "harvest"
-      },
-      {
-        "title": "Jamaica Agricultural Marketing Information System (JAMIS)",
-        "body": "<p><strong>Where: </strong>Jamaica.<br />\n<br />\n<strong>Who:</strong> The&nbsp;Ministry of Agriculture and Fisheries, Information Division &amp; RADA.<br />\n<br />\n<strong>What: </strong>A&nbsp;service that provides unbiased data on farm gates, markets, ad wholesale and retail prices&nbsp;on a weekly basis.<br />\n<br />\n<strong>Why: </strong>To provide accurate and unbiased marketing information depicting current trade conditions. The aim is to&nbsp;promote orderly marketing and enhance competition.&nbsp;<br />\n<br />\n<a href=\"http://www.ja-mis.com/Companionsite/about.aspx?id=0\">Take me to the&nbsp;JAMIS website</a></p>\n",
-        "_graphic": {
-          "src": "course/en/assets/6dea7973eea11fc47543bdaa6c2659525fc6656b.png",
-          "alt": ""
-        },
-        "strapline": "hey"
       }
     ]
   },
@@ -553,7 +553,7 @@
     "title": "  ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-four",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -561,86 +561,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
-    }
-  },
-  {
-    "_id": "584eb8584e62ce485eb14522",
-    "_layout": "left",
-    "_parentId": "584eb8204e62ce485eb1451c",
-    "_type": "component",
-    "body": "<p><strong>AgriNeTT are...</strong></p>\n",
-    "displayTitle": "How are AgriNeTT using open data to create value?",
-    "title": "How are AgriNeTT using open data to create value?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": " Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "collating lots of open data to make data art",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "teaching others about open data internationally",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "building an agriculture open data repository for developers to use",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p>That&#39;s right!</p>\n\n<p>AgriNeTT are creating an open data portal using open agriculture data. This enables developers to build apps that&nbsp;are useful for the community.&nbsp;</p>\n",
-      "_incorrect": {
-        "final": "<p>Are you sure about that?</p>\n\n<p>AgriNeTT are creating an open data portal using open agriculture data. This enables developers to build apps that are useful for the community.&nbsp;</p>\n",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
     }
   },
   {
@@ -815,6 +738,83 @@
       "correct": "<p>That&#39;s right!</p>\n\n<p>Whereas all data has the potential to become information, open data is data that anyone can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. It might not always come&nbsp;free of charge, although it must be freely available.&nbsp;</p>\n",
       "_incorrect": {
         "final": "<p>Are you sure about that?</p>\n\n<p>Whereas all data has the potential to become information, open data is data that anyone can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. It might not always come&nbsp;free of charge, although it must be freely available.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584eb8584e62ce485eb14522",
+    "_layout": "left",
+    "_parentId": "584eb8204e62ce485eb1451c",
+    "_type": "component",
+    "body": "<p><strong>HarvestAPI...</strong></p>\n",
+    "displayTitle": "How are HarvestAPI using open data?",
+    "title": "How are HarvestAPI using open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": " Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "collate open data to make data art",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "teach others about open data internationally",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "publishes data to increase access to the Farmer register",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>HarvestAPI is an open source platform that publishes&nbsp;open agriculture data. This enables access to the Government of Jamaica Farmer register and enables&nbsp;developers to build products and services&nbsp;that&nbsp;are useful for the community.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>That&#39;s right!</p>\n\n<p>HarvestAPI is an open source platform that publishes&nbsp;open agriculture data. This enables access to the Government of Jamaica Farmer register and enables&nbsp;developers to build products and services&nbsp;that&nbsp;are useful for the community.&nbsp;</p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
