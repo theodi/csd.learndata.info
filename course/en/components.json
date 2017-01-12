@@ -111,16 +111,16 @@
           "src": "course/en/assets/4462daa4541eb11f9a09ea005d9f160480451597.jpg",
           "alt": ""
         },
-        "strapline": "harvest"
+        "strapline": "HarvestAPI"
       },
       {
         "title": "Jamaica Agricultural Marketing Information System (JAMIS)",
-        "body": "<p><strong>Where: </strong>Jamaica.<br />\n<br />\n<strong>Who:</strong> The&nbsp;Ministry of Agriculture and Fisheries, Information Division &amp; RADA.<br />\n<br />\n<strong>What: </strong>A&nbsp;service that provides unbiased data on farm gates, markets, ad wholesale and retail prices&nbsp;on a weekly basis.<br />\n<br />\n<strong>Why: </strong>To provide accurate and unbiased marketing information depicting current trade conditions. The aim is to&nbsp;promote orderly marketing and enhance competition.&nbsp;<br />\n<br />\n<a href=\"http://www.ja-mis.com/Companionsite/about.aspx?id=0\">Take me to the&nbsp;JAMIS website</a></p>\n",
+        "body": "<p><strong>Where: </strong>Jamaica.<br />\n<br />\n<strong>Who:</strong> The&nbsp;Ministry of Agriculture and Fisheries, Information Division &amp; RADA.<br />\n<br />\n<strong>What: </strong>A&nbsp;service that provides unbiased data on farm gates, markets, and wholesale and retail prices&nbsp;on a weekly basis.<br />\n<br />\n<strong>Why: </strong>To provide accurate and unbiased marketing information depicting current trade conditions. The aim is to&nbsp;promote orderly marketing and enhance competition.&nbsp;<br />\n<br />\n<a href=\"http://www.ja-mis.com/Companionsite/about.aspx?id=0\">Take me to the&nbsp;JAMIS website</a></p>\n",
         "_graphic": {
           "src": "course/en/assets/6dea7973eea11fc47543bdaa6c2659525fc6656b.png",
           "alt": ""
         },
-        "strapline": "hey"
+        "strapline": "JAMIS"
       },
       {
         "title": "AgriNeTT",
@@ -129,7 +129,7 @@
           "src": "course/en/assets/222afd50e3bb3c41a04aea63e106d4258fbb04a2.jpg",
           "alt": ""
         },
-        "strapline": "Agrinett"
+        "strapline": "AgriNeTT"
       },
       {
         "title": "CIRP-mFisheries",
@@ -262,55 +262,6 @@
     }
   },
   {
-    "_id": "582c40944d7b7e82691e440e",
-    "_layout": "full",
-    "_parentId": "582c40554d7b7e82691e440b",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "What is data, and why is it useful?",
-    "title": "What is data, and why is it useful?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Data",
-        "body": "<p>Data is the raw material from which information and knowledge can be derived.</p>\n\n<p>Data can be quantities, characters and symbols. It can come in the form of images, descriptions, reviews, prices or anything else that could form the basis of information.&nbsp;</p>\n\n<p>For example, the number of ackee trees growing in farms across a region, recorded in a spreadsheet, is data. The number of trees is the data, and the spreadsheet that holds the data is the dataset. &nbsp;</p>\n",
-        "_graphic": {
-          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
-          "alt": ""
-        },
-        "strapline": "Data "
-      },
-      {
-        "title": "Information ",
-        "body": "<p>Data becomes information when it is given a context.</p>\n\n<p>For example, in comparing the number of ackee trees to the geographical location of the farms, it might be deduced that there are more ackee trees in the north of the region than in the south.</p>\n\n<p>The collection and presentation of data helps to form information.</p>\n",
-        "_graphic": {
-          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg",
-          "alt": ""
-        },
-        "strapline": "Information "
-      },
-      {
-        "title": "Knowledge",
-        "body": "<p>Knowledge is what is derived from information and personalised for your needs. Information turns to knowledge when you are able to make informed decisions or choices.</p>\n\n<p>For example, drawing on information that there are more ackee trees in the northern region, a supermarket that wishes to provide more ackee trees might choose to source them from suppliers in the northern region.&nbsp;</p>\n",
-        "_graphic": {
-          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
-          "alt": ""
-        },
-        "strapline": "Knowledge"
-      }
-    ]
-  },
-  {
     "_id": "584eb9ab4e62ce485eb14528",
     "_layout": "right",
     "_parentId": "584eb9964e62ce485eb14526",
@@ -349,130 +300,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "585035914e62ce485eb1465a",
-    "_layout": "right",
-    "_parentId": "585035824e62ce485eb14654",
-    "_type": "component",
-    "body": "<p>And as the world&rsquo;s population grows from 7.4 billion to potentially 10 billion by 2050, the agricultural system will play a key role in ensuring our global demands can be met. Open data could be a&nbsp;key driver in improving the agricultural sector worldwide. In the Caribbean, there is huge potential to use open data to solve problems, improve processes and drive innovation&nbsp;within agriculture.&nbsp;</p>\n",
-    "displayTitle": "The benefits of open data for agriculture",
-    "title": "The benefits of open data for agriculture",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click on the headings below to explore more",
-    "_items": [
-      {
-        "title": "Increasing efficiency",
-        "body": "<p>Open data can improve the efficiency of&nbsp;logistics and make processes much more streamlined.&nbsp;</p>\n\n<p>Jamaica often suffers from coordination problems both in times of drought and of plenty. Open data platforms, which match demand and&nbsp;supply, can streamline crop production and planning.&nbsp;</p>\n\n<p>Access to consumption, production and crop maturity data can also enable policy-makers to make data-driven decisions on whether to increase or decrease local production and how much to export.</p>\n\n<p>Enhanced access to geospatial and meteorological data helps farmers make better decisions about where and when to plant for the maximum&nbsp;yield, and how changes in weather patterns might affect crops.&nbsp;</p>\n\n<p><s>Using open data to drive mobile applications can also provide on-demand access to agricultural data from&nbsp;individuals and governments, supporting farmers working on the fields.&nbsp;</s></p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Increasing transparency",
-        "body": "<p>Open data has the power to increase transparency in the agricultural sector.</p>\n\n<p>Open access to procurement data can help ensure that procurement&nbsp;processes have been followed and best value&nbsp;tools and products have been invested in.</p>\n\n<p>Open data can also help reduce decrease praedial larceny (theft of agricultural produce or livestock)&nbsp;in the Caribbean, which poses a huge threat to the sector.</p>\n\n<p>Tracking the location of products from farm to fork with real time data can help to reduce instances of&nbsp;praedial larceny. Collecting&nbsp;and analysing open theft data will allow authorities to identify where in the production chain the thefts occur, and improve attempts to prevent them.&nbsp;</p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Driving innovation",
-        "body": "<p dir=\"ltr\">Publishing&nbsp;official open government agriculture data enables technical developers and domain experts to innovate and create products and services which boost the agriculture ecosystem.</p>\n\n<p>Small startup ventures such as<a href=\"http://agrocentral.co/\"> Agrocentral</a> and <a href=\"http://harvestapi.io\">HarvestAPI</a>&nbsp;have started using&nbsp;agriculture price and production data produced by the Caribbean Ministry of Agriculture.</p>\n\n<p>Other organisations, such as the <a href=\"https://www.climate.com/\">Climate Corporation</a>, have leveraged climate and soil open data to develop insurance products which help farmers protect and improve their farming operations, raising over $100m in venture capital.</p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
-    "_id": "584eb5354e62ce485eb1450b",
-    "_layout": "right",
-    "_parentId": "584eb5234e62ce485eb14509",
-    "_type": "component",
-    "body": "<p><strong>Open data has the potential to...</strong></p>\n",
-    "displayTitle": "Which TWO of the following are benefits of open data in agriculture?",
-    "title": "Which TWO of the following are benefits of open data in agriculture?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose two answers, then click 'Submit'",
-    "_items": [
-      {
-        "text": "help make better decisions about where and when to plant crops",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "increase praedial larceny through product location tracking",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "decrease praedial larceny through product location tracking",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 2,
-    "_feedback": {
-      "correct": "<p>That&#39;s right!</p>\n\n<p>Amongst other benefits, open data can help make better decisions and solve critical problems in agriculture, such as praedial larceny.&nbsp;</p>\n",
-      "_incorrect": {
-        "final": "<p>Are you sure about that?</p>\n\n<p>Amongst other benefits, open data can help make better decisions and solve critical problems in agriculture, such as praedial larceny.&nbsp;</p>\n",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
   },
   {
     "_id": "584eb1e64e62ce485eb144f5",
@@ -815,6 +642,188 @@
       "correct": "<p>That&#39;s right!</p>\n\n<p>HarvestAPI is an open source platform that publishes&nbsp;open agriculture data. This enables access to the Government of Jamaica Farmer register and enables&nbsp;developers to build products and services&nbsp;that&nbsp;are useful for the community.&nbsp;</p>\n",
       "_incorrect": {
         "final": "<p>That&#39;s right!</p>\n\n<p>HarvestAPI is an open source platform that publishes&nbsp;open agriculture data. This enables access to the Government of Jamaica Farmer register and enables&nbsp;developers to build products and services&nbsp;that&nbsp;are useful for the community.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "582c40944d7b7e82691e440e",
+    "_layout": "full",
+    "_parentId": "582c40554d7b7e82691e440b",
+    "_type": "component",
+    "body": "<p>Agriculture is a data-intensive sector. The access to, analysis and use of timely and accurate data about environmental conditions, production, market logistics and pricing, has become essential for the sector worldwide.&nbsp;</p>\n",
+    "displayTitle": "What is data, and why is it useful?",
+    "title": "What is data, and why is it useful?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data",
+        "body": "<p>Data is the raw material from which information and knowledge can be derived.</p>\n\n<p>Data can be quantities, characters and symbols. It can come in the form of images, descriptions, reviews, prices or anything else that could form the basis of information.&nbsp;</p>\n\n<p>For example, the number of banana trees growing in farms across a parish, recorded in a spreadsheet, is data. The number of trees is the data, and the spreadsheet that holds the data is the dataset. &nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
+          "alt": ""
+        },
+        "strapline": "Data "
+      },
+      {
+        "title": "Information ",
+        "body": "<p>Data becomes information when it is given a context.</p>\n\n<p>For example, in comparing the number of banana&nbsp;trees to the geographical location of the farms, it might be deduced that&nbsp;banana production is greater in the&nbsp;eastern parishes than in the western parishes.</p>\n\n<p>The collection and presentation of data helps to form information.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg",
+          "alt": ""
+        },
+        "strapline": "Information "
+      },
+      {
+        "title": "Knowledge",
+        "body": "<p>Knowledge is what is derived from information and personalized for your needs. Information turns to knowledge when you are able to make informed decisions or choices.</p>\n\n<p dir=\"ltr\">For example, drawing on information that banana production is greater in the eastern parishes region, the Producers group that manufactures snack foods from bananas might choose to focus their sourcing partnerships with farmers in the eastern parishes.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+          "alt": ""
+        },
+        "strapline": "Knowledge"
+      }
+    ]
+  },
+  {
+    "_id": "585035914e62ce485eb1465a",
+    "_layout": "right",
+    "_parentId": "585035824e62ce485eb14654",
+    "_type": "component",
+    "body": "<p>And as the world&rsquo;s population grows from 7.4 billion to potentially 10 billion by 2050, the agricultural system will play a key role in ensuring our global demands can be met. Open data could be a&nbsp;key driver in improving the agricultural sector worldwide. In the Caribbean, there is huge potential to use open data to solve problems, improve processes and drive innovation&nbsp;within agriculture.&nbsp;</p>\n",
+    "displayTitle": "The benefits of open data for agriculture",
+    "title": "The benefits of open data for agriculture",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the headings below to explore more",
+    "_items": [
+      {
+        "title": "Increasing efficiency",
+        "body": "<p>Open data can improve the efficiency of&nbsp;logistics and make processes much more streamlined.&nbsp;</p>\n\n<p>Jamaica often suffers from coordination problems both in times of drought and of plenty. Open data platforms, which match demand and&nbsp;supply, can streamline crop production and planning.&nbsp;</p>\n\n<p>Access to consumption, production and crop maturity data can also enable policy-makers to make data-driven decisions on whether to increase or decrease local production and how much to export.</p>\n\n<p>Enhanced access to geospatial and meteorological data helps farmers make better decisions about where and when to plant for the maximum&nbsp;yield, and how changes in weather patterns might affect crops.&nbsp;</p>\n\n<p>Using open data to drive mobile applications can also provide on-demand access to agricultural data from&nbsp;individuals and governments, supporting farmers working on the fields.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Increasing transparency",
+        "body": "<p>Open data has the power to increase transparency in the agricultural sector.</p>\n\n<p>Open access to procurement data can help ensure that procurement&nbsp;processes have been followed and best value&nbsp;tools and products have been invested in.</p>\n\n<p dir=\"ltr\">Open access to supply data can help to ensure that farmers get competitive prices for farming tools and products.</p>\n\n<p>Open data can also help reduce decrease praedial larceny (theft of agricultural produce or livestock)&nbsp;in the Caribbean, which poses a huge threat to the sector.</p>\n\n<p>Collecting&nbsp;and analysing open theft data will allow authorities to identify where in the production chain the thefts occur, and improve attempts to prevent them.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Driving innovation",
+        "body": "<p dir=\"ltr\">Publishing&nbsp;official open government agriculture data enables technical developers and domain experts to innovate and create products and services which boost the agriculture ecosystem.</p>\n\n<p>Small startup ventures such as<a href=\"http://agrocentral.co/\"> Agrocentral</a> and <a href=\"http://harvestapi.io\">HarvestAPI</a>&nbsp;have started using&nbsp;agriculture price and production data produced by the Caribbean Ministry of Agriculture.</p>\n\n<p>Other organisations, such as the <a href=\"https://www.climate.com/\">Climate Corporation</a>, have leveraged climate and soil open data to develop insurance products which help farmers protect and improve their farming operations, raising over $100m in venture capital.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Enhancing collaboration",
+        "body": "<p dir=\"ltr\">Studies currently estimate that only 30% of food purchased by Jamaican hotels is locally sourced. Opening supply and demand data improves collaboration between agriculture and key demand sectors such as tourism.</p>\n\n<p>Crowdsourcing the collection of data can lead to increased availability and improved accuracy of open data. Encouraging farmers and other agricultural end-users to participate in the data collection or the verification process will increase data quality as well as quantity.</p>\n\n<p>The government agency Rural Agricultural Development Authority (RADA), has collaborated with technology innovator&nbsp;Slashroots to create a platform for publishing and sharing of agricultural sector data across government and with the public.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584eb5354e62ce485eb1450b",
+    "_layout": "right",
+    "_parentId": "584eb5234e62ce485eb14509",
+    "_type": "component",
+    "body": "<p><strong>Open data has the potential to...</strong></p>\n",
+    "displayTitle": "Which TWO of the following are benefits of open data in agriculture?",
+    "title": "Which TWO of the following are benefits of open data in agriculture?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose two answers, then click 'Submit'",
+    "_items": [
+      {
+        "text": "help make better decisions about where and when to plant crops",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "decrease soil salination (amount of salt in soil)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "provide accurate and unbiased marketing information depicting current trade conditions. ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Amongst other benefits, open data can help make better decisions and provide fair access to market. Open data can monitor the level of salt in soil but not necessary decrease it.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>That&#39;s right!</p>\n\n<p>Amongst other benefits, open data can help make better decisions and provide fair access to market. Open data can monitor the level of salt in soil but not necessary decrease it.&nbsp;</p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
