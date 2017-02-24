@@ -46,7 +46,7 @@
   {
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/4d42366f7b347053ff45ca63a31f30f083259dfa.jpg"
     },
     "_id": "582c39484d7b7e82691e43ff",
     "_parentId": "course",
@@ -56,19 +56,35 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "hidden",
-    "body": "",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Agribusiness - the business of agriculture - encompasses all activities from &#39;pre-farm&#39; to fork. It boosts the economy, contributes to domestic food supply and provides employment. In this module, we look at the sectors of agribusiness, why it is essential to&nbsp;the Caribbean and trends to watch.</p>",
     "displayTitle": "Agribusiness",
     "title": "Agribusiness",
     "_skillsFramework": {
-      "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_skills": [
+        {
+          "outcome": "Describe the three sectors of agribusiness",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Explain why agribusiness is essential to the Caribbean",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "List trends to watch in agribusiness",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
     },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {

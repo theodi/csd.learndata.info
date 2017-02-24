@@ -85,6 +85,23 @@
     }
   },
   {
+    "_id": "58779d10b61c46e176e7e19f",
+    "_layout": "left",
+    "_parentId": "58779d05b61c46e176e7e19e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready for agribusiness?",
+    "title": "Are you ready for agribusiness?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-one",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
     "_id": "5846aa764d7b7e82691e4b89",
     "_layout": "full",
     "_parentId": "5846aa364d7b7e82691e4b88",
@@ -285,23 +302,6 @@
     }
   },
   {
-    "_id": "584eb9a84e62ce485eb14527",
-    "_layout": "left",
-    "_parentId": "584eb9964e62ce485eb14526",
-    "_type": "component",
-    "body": "<p>Data is the raw material from&nbsp;which&nbsp;information and knowledge can be derived.&nbsp;</p>\n\n<p>Open data is data that anyone can access, use and share.&nbsp;</p>\n\n<p>Using open data in agriculture will make processes more efficient and target decision making, which&nbsp;can improve crop yield, promote collaboration across the sector, and create new business&nbsp;and services.</p>\n\n<p>However, open data is only valuable where it is being used. Some organisations and projects in the Caribbean are making huge steps towards improving agriculture&nbsp;with open data. To harness open data&#39;s full potential, and to get actors across the production chain sharing and using key&nbsp;datasets,&nbsp;the sector needs to adopt a culture that uses, produces and embraces&nbsp;data.</p>\n",
-    "displayTitle": "Summary",
-    "title": "Summary",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "584eb1e64e62ce485eb144f5",
     "_layout": "left",
     "_parentId": "584eb1e64e62ce485eb144f4",
@@ -409,22 +409,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "584e73fe4d7b7e82691e4e2d",
-    "_layout": "full",
-    "_parentId": "582c39484d7b7e82691e4401",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
   },
   {
     "_id": "582c3af84d7b7e82691e4406",
@@ -855,5 +839,767 @@
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
     }
+  },
+  {
+    "_id": "58776f66b61c46e176e7e18e",
+    "_layout": "right",
+    "_parentId": "582c39484d7b7e82691e4401",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f61b2099b1116607087b99490e45eefa64a59ad5.png",
+      "small": "course/en/assets/f61b2099b1116607087b99490e45eefa64a59ad5.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5877701ab61c46e176e7e191",
+    "_layout": "left",
+    "_parentId": "58776ff8b61c46e176e7e18f",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Agribusiness&nbsp;is the&nbsp;business&nbsp;of agricultural production.</p><p dir=\"ltr\">Agribusiness consists of industry, commerce and trade. Industry includes the&nbsp;production of commodities and materials. Commerce and trade refer to the distribution of those commodities and materials.</p><p dir=\"ltr\">In the Caribbean, agribusiness is essential, with agriculture contributing 15.6% to Dominica&#39;s GDP, 7.6% to St Vincent and the Grenadines&#39; GDP&nbsp;and 7.4%&nbsp;to Jamaica&#39;s GDP in 2015&nbsp;(<a href=\"http://data.worldbank.org/indicator/NV.AGR.TOTL.ZS\">source: World Bank</a>). All these figures are lower than they were in 1995.</p>",
+    "displayTitle": "What is agribusiness?",
+    "title": "What is agribusiness?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58777017b61c46e176e7e190",
+    "_layout": "right",
+    "_parentId": "58776ff8b61c46e176e7e18f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d5011fbb1e1a43a9094045081ca9153bc786c288.jpg",
+      "small": "course/en/assets/d5011fbb1e1a43a9094045081ca9153bc786c288.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "587799a2b61c46e176e7e199",
+    "_layout": "left",
+    "_parentId": "58777cefb61c46e176e7e198",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Agribusinesses boost the economy, contribute to domestic food supply and provide employment.</p><p dir=\"ltr\">Taking the country of Jamaica: despite falling between 1995 and 2007,&nbsp;the contribution of agriculture to Jamaica&rsquo;s Gross Domestic Product (GDP) <a href=\"http://data.worldbank.org/indicator/NV.AGR.TOTL.ZS?locations=JM\">has risen&nbsp;by 2.1% to 7.4%</a> between 2007 and 2015.</p><p dir=\"ltr\">Food exports from the island <a href=\"http://www.jamaicatradeandinvest.org/investment/sectors/agriculture/sector-profile\">increased by 22.3%</a>, moving from US$224 million in 2011 to US$274 million in 2012.</p><p dir=\"ltr\">Jamaica agribusinesses produce a variety agricultural commodities for export. These include Tin Ackee, Callaloo, hot pepper sauce, Pickapeppa sauce, rum, beer, coffee products, Scotch Bonnet Pepper, Jerk BBQ Sauce, sugar, yam and sweet potato.</p><p dir=\"ltr\">The sector currently employs 18% of the national workforce in Jamaica.</p><p dir=\"ltr\">&nbsp;</p>",
+    "displayTitle": "Why is agribusiness essential to the Caribbean?",
+    "title": "Why is agribusiness essential to the Caribbean?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "587799a5b61c46e176e7e19a",
+    "_layout": "right",
+    "_parentId": "58777cefb61c46e176e7e198",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/33654fb6631dd6d07d1d41bec812362d31776514.jpg",
+      "small": "course/en/assets/33654fb6631dd6d07d1d41bec812362d31776514.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584eb9a84e62ce485eb14527",
+    "_layout": "left",
+    "_parentId": "584eb9964e62ce485eb14526",
+    "_type": "component",
+    "body": "<p>Data is the raw material from&nbsp;which&nbsp;information and knowledge can be derived.&nbsp;</p><p>Open data is data that anyone can access, use and share.&nbsp;</p><p>Using open data in agriculture will make processes more efficient and target decision making, which&nbsp;can improve crop yield, promote collaboration across the sector, and create new business&nbsp;and services.</p><p>However, open data is only valuable where it is being used. Some organisations and projects in the Caribbean are making huge steps towards improving agriculture&nbsp;with open data. To harness open data&#39;s full potential, and to get actors across the production chain sharing and using key&nbsp;datasets,&nbsp;the sector needs to adopt a culture that uses, produces and embraces&nbsp;data.</p><p>For more information on open data and agriculture, take a look at&nbsp;<em><a href=\"http://theodi.org/how-improve-agriculture-food-nutrition-open-data\">How can we improve agriculture, food and nutrition with open data?</a>&nbsp;</em>published by the <a href=\"http://theodi.org/\">Open Data Institute</a> and <a href=\"http://www.godan.info/\">GODAN</a>.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58779d15b61c46e176e7e1a0",
+    "_layout": "right",
+    "_parentId": "58779d05b61c46e176e7e19e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58779ccab61c46e176e7e19d",
+    "_layout": "left",
+    "_parentId": "58779c5cb61c46e176e7e19b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bd100fb2c4a835330fa7adbdf5225063e03b366e.jpg",
+      "small": "course/en/assets/bd100fb2c4a835330fa7adbdf5225063e03b366e.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58aefb0cfda9f5660ad85975",
+    "_layout": "left",
+    "_parentId": "58aefaf4fda9f5660ad85974",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bd100fb2c4a835330fa7adbdf5225063e03b366e.jpg",
+      "small": "course/en/assets/bd100fb2c4a835330fa7adbdf5225063e03b366e.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58779da3b61c46e176e7e1a9",
+    "_layout": "right",
+    "_parentId": "58779d94b61c46e176e7e1a8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/33654fb6631dd6d07d1d41bec812362d31776514.jpg",
+      "small": "course/en/assets/33654fb6631dd6d07d1d41bec812362d31776514.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58af1304fda9f5660ad85988",
+    "_layout": "left",
+    "_parentId": "5877703fb61c46e176e7e192",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/56a06ca7e8d1d1ea201437d170f33338b7d9efd6.jpg",
+      "small": "course/en/assets/56a06ca7e8d1d1ea201437d170f33338b7d9efd6.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58af15e1fda9f5660ad8598d",
+    "_layout": "right",
+    "_parentId": "58af15cdfda9f5660ad8598b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-four",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/43c5a311e1345dcfb215982cd09b9bb042fb5add.png",
+      "small": "course/en/assets/43c5a311e1345dcfb215982cd09b9bb042fb5add.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58aefb10fda9f5660ad85976",
+    "_layout": "right",
+    "_parentId": "58aefaf4fda9f5660ad85974",
+    "_type": "component",
+    "body": "<p><strong>How can data support the activities of agribusinesses?</strong></p>",
+    "displayTitle": "Trends to watch in agriculture",
+    "title": "Trends to watch in agriculture",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "By providing evidence of product origin",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "By improving weather conditions",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "By increasing crop prices",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Agribusinesses&nbsp;are under increasing pressure to provide evidence of origin for their products and commodities.&nbsp;</p><p>Sharing supply chain data between suppliers provides that evidence of origin. Publishing that data openly&nbsp;would provide that evidence to&nbsp;consumers.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Agribusinesses&nbsp;are under increasing pressure to provide evidence of origin for their products and commodities.&nbsp;</p><p>Sharing supply chain data between suppliers provides that evidence of origin. Publishing that data openly&nbsp;would provide that evidence to&nbsp;consumers.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58af15ddfda9f5660ad8598c",
+    "_layout": "left",
+    "_parentId": "58af15cdfda9f5660ad8598b",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Agriculture is a major industry&nbsp;in the Caribbean. However in recent years&nbsp;the industry has reduced in size and value, not just in the&nbsp;Caribbean but worldwide.</p><p dir=\"ltr\">Agribusiness -&nbsp;the business of agriculture -&nbsp;is essential to reduce this declining trend.&nbsp;Agribusinesses boost the economy, contribute to domestic food supply and provide employment.</p><p dir=\"ltr\">Agribusinesses can be split into three sectors: input, production and output. These three sectors cover all stages of the process,&nbsp;from &#39;pre-farm&#39; to fork.</p><p dir=\"ltr\">Given their size and importance in the Caribbean, agriculture and agribusinesses need to be constantly evolving. New technology, data, regulations and an ever increasing threat of food security both challenge and provide new opportunities to those working in the sector.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5877704eb61c46e176e7e193",
+    "_layout": "right",
+    "_parentId": "5877703fb61c46e176e7e192",
+    "_type": "component",
+    "body": "<p>Agribusiness is a complex&nbsp;industry&nbsp;with many moving parts. There are three key sectors: input, production and output.</p>",
+    "displayTitle": "What are the sectors in agribusiness?",
+    "title": "What are the sectors in agribusiness?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the headings below to explore more",
+    "_items": [
+      {
+        "title": "1. Input",
+        "body": "<p dir=\"ltr\">The input sector of agribusiness includes&nbsp;all resources involved in producing farm commodities.</p><p dir=\"ltr\">Sometimes referred to as &#39;pre-farm&#39;, the input sector&nbsp;includes manufacturers of products such as plant seed, fertilisers, animal feed, machinery, fuel and chemicals.</p><p>Examples of input agribusinesses firms in Jamaica include&nbsp;<a href=\"http://news.agropages.com/News/NewsDetail---8451.htm\">Newport Fersan Chemicals</a>, manufacturer and distributor of fertiliser and&nbsp;<a href=\"http://hlagrojamaica.com/\">H&amp;L AGRO</a> (previously AgroGrace)</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Production",
+        "body": "<p dir=\"ltr\">Production&nbsp;is a key sector&nbsp;of agribusiness.</p><p dir=\"ltr\">It&nbsp;includes groups such as&nbsp;farmers,&nbsp;fresh produce growers, companies&nbsp;producing seafood or growing trees and even ornamental plant producers.</p><p dir=\"ltr\">The <a href=\"http://www.jamaicabroilersgroup.com/\">Jamaica Broilers Group</a>&nbsp;is an example of one of the largest production&nbsp;agribusiness firms in the Caribbean.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Output",
+        "body": "<p dir=\"ltr\">The output sector of agribusiness includes all services&nbsp;that link producers and consumers, from farm to fork.</p><p dir=\"ltr\">This includes&nbsp;transportation,&nbsp;storage, packaging, inspections and sales, as well as&nbsp;the post-harvest processing of meat, fish and&nbsp;fruit and vegetables.</p><p dir=\"ltr\">In Jamaica, the&nbsp;<a href=\"https://www.rada.gov.jm/services/production-and-marketing\">Marketing Extension Unit</a>&nbsp;of the Rural Agricultural Development Agency (RADA) runs programs to assist farmers in the output sector.</p><p dir=\"ltr\">The main roles of the unit are:</p><ul><li>Assisting farmers with production planning for market sources</li><li>Assisting farmers with identifying and implementing appropriate marketing strategies for specific market sources</li><li>Training farmers and middlemen in post harvest handling of produce</li><li>Training farmers to operate in groups</li><li>Linking farmers with wholesalers, and retailers, supermarkets, green groceries, hotels and any other food-purchasing enterprises.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58779d89b61c46e176e7e1a5",
+    "_layout": "left",
+    "_parentId": "58779d40b61c46e176e7e1a1",
+    "_type": "component",
+    "body": "<p><strong>Agribusiness is...</strong></p>",
+    "displayTitle": "What is agribusiness?",
+    "title": "What is agribusiness?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "the business of agricultural production",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "an agricultural initiative in Jamaica",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "farming businesses only",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p dir=\"ltr\">Agribusiness&nbsp;is the&nbsp;business&nbsp;of agricultural production.</p><p dir=\"ltr\">Agribusiness consists of industry, commerce and trade. Industry includes the&nbsp;production of commodities and materials. Commerce and trade refer to the distribution of those commodities and materials</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Agribusiness&nbsp;is the&nbsp;business&nbsp;of agricultural production.</p><p dir=\"ltr\">Agribusiness consists of industry, commerce and trade. Industry includes the&nbsp;production of commodities and materials. Commerce and trade refer to the distribution of those commodities and materials</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58779d4cb61c46e176e7e1a2",
+    "_layout": "right",
+    "_parentId": "58779d40b61c46e176e7e1a1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d5011fbb1e1a43a9094045081ca9153bc786c288.jpg",
+      "small": "course/en/assets/d5011fbb1e1a43a9094045081ca9153bc786c288.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58779db0b61c46e176e7e1aa",
+    "_layout": "left",
+    "_parentId": "58779d94b61c46e176e7e1a8",
+    "_type": "component",
+    "body": "<p><strong>Agribusiness is essential to the Caribbean because...</strong></p>",
+    "displayTitle": "Why is agribusiness essential for the Caribbean?",
+    "title": "Why is agribusiness essential for the Caribbean?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "The sector employs over 18% of the workforce in Jamaica alone",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Agriculture is the biggest sector in the Caribbean",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Jamaica exports hot pepper sauce",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Agribusinesses boost the economy, contribute to domestic food supply and provide employment.</p><p dir=\"ltr\">The sector currently employs 18% of the national workforce in Jamaica.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Agribusinesses boost the economy, contribute to domestic food supply and provide employment.</p><p dir=\"ltr\">The sector currently employs 18% of the national workforce in Jamaica.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58779d91b61c46e176e7e1a7",
+    "_layout": "left",
+    "_parentId": "58779d6eb61c46e176e7e1a4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/56a06ca7e8d1d1ea201437d170f33338b7d9efd6.jpg",
+      "small": "course/en/assets/56a06ca7e8d1d1ea201437d170f33338b7d9efd6.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58779d8eb61c46e176e7e1a6",
+    "_layout": "right",
+    "_parentId": "58779d6eb61c46e176e7e1a4",
+    "_type": "component",
+    "body": "<p><strong>There are three&nbsp;key sectors in agribusiness. </strong></p><p><strong>Which of the following best describes the output sector?</strong></p>",
+    "displayTitle": "The sectors in agribusiness",
+    "title": "The sectors in agribusiness",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "All services that link producers and consumers.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "All 'pre-farm' resources involved in producing farm commodities",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Groups such as farmers, fresh produce growers and companies that produce seafood",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p dir=\"ltr\">The output sector of agribusiness includes all services&nbsp;that link producers and consumers.</p><p dir=\"ltr\">This includes&nbsp;transportation,&nbsp;storage, packaging, inspections and sales, as well as&nbsp;the post-harvest processing of meat, fish and&nbsp;fruit and vegetables.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">The output sector of agribusiness includes all services&nbsp;that link producers and consumers.</p><p dir=\"ltr\">This includes&nbsp;transportation,&nbsp;storage, packaging, inspections and sales, as well as&nbsp;the post-harvest processing of meat, fish and&nbsp;fruit and vegetables.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58776f60b61c46e176e7e18d",
+    "_layout": "left",
+    "_parentId": "582c39484d7b7e82691e4401",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Agriculture is a major industry&nbsp;in the Caribbean. However in recent years&nbsp;the industry has reduced in size and value, not just in the&nbsp;Caribbean but worldwide.</p><p dir=\"ltr\">Agribusiness -&nbsp;the business of agriculture -&nbsp;is essential to reduce this declining trend.&nbsp;Agribusinesses, encompassing all activities from &#39;pre-farm&#39; to fork,&nbsp;boost&nbsp;the economy, contribute&nbsp;to domestic food supply and provide&nbsp;employment.&nbsp;</p><p dir=\"ltr\"><strong>In this module we will explore the following:</strong></p><p dir=\"ltr\">✓ What is agribusiness?</p><p dir=\"ltr\">✓ What are the sectors in&nbsp;agribusiness?</p><p dir=\"ltr\">✓ Why is agribusiness essential to the Caribbean?</p><p dir=\"ltr\">✓ Trends to watch</p>",
+    "displayTitle": "Agribusiness",
+    "title": "Agribusiness",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58779c71b61c46e176e7e19c",
+    "_layout": "right",
+    "_parentId": "58779c5cb61c46e176e7e19b",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">As such an important sector for the Caribbean and the world, agriculture&nbsp;needs to be constantly evolving. Below are five trends to watch&nbsp;as according to <a href=\"http://www.agweb.com/article/5-agriculture-trends-worth-watching-naa-ben-potter/\" target=\"_blank\">AgWeb</a>.</p>",
+    "displayTitle": "Trends to watch",
+    "title": "Trends to watch",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the headings below to explore more",
+    "_items": [
+      {
+        "title": "New technology",
+        "body": "<p>From farm to fork, new technology is rapidly changing the way the agricultural sector works.</p><p>From <a href=\"http://www.westernfarmpress.com/irrigation/drip-irrigation-system-helps-farmers-make-better-use-water\">drip irrigation</a> to <a href=\"http://www.nesta.org.uk/blog/precision-agriculture-almost-20-increase-income-possible-smart-farming\">precision agriculture</a>, &#39;smart farms&#39; could save producers&#39; money, increase the efficiency in operations and increase crop yields.</p><p>The International Food Policy Research Institute (IFPRI) have <a href=\"http://agritech.harvestchoice.org/\">built an interactive tool</a>&nbsp;where you can see the effects of 11 new technologies on farms.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data",
+        "body": "<p>Data is playing an increasingly important role in many sectors, and agriculture is no exception.</p><p>From geospatial data, to food safety data; from land use data to market data, there are <a href=\"https://docs.google.com/spreadsheets/d/19kqNFLhMTY396N-n5dgiUXJic8dkpRMesk0xj_fin44/edit#gid=0\">many valuable datasets </a>to enrich the activities of agribusinesses.</p><p>Data can make agribusinesses more efficient, increase transparency of their operations (see regulations block below), drive innovation and enhance collaboration.</p><p>For more information about data and agriculture, take a look at <a href=\"#/id/582c39464d7b7e82691e43fc\" target=\"_blank\">this&nbsp;module</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Biologicals",
+        "body": "<p>Across the sector, there is a shift from chemical to biological products in the fight against&nbsp;weeds, insects and diseases.</p><p>Controlling pests with biological products differs from chemical products and will require a different mindset.</p><p>A shift from chemical to biological products will also have an effect on companies who supply these products.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Regulations",
+        "body": "<p>Agribusinesses&nbsp;are under increasing pressure to provide evidence of origin for their products and commodities.&nbsp;</p><p>For some in the supply chain, this means an enormous overhaul of the way their operations are run.</p><p>Sharing supply chain data between suppliers is one way in which agribusinesses can be certain of the origin of their products and commodities. Publishing that data as open data would mean that consumers were equally certain.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Food security",
+        "body": "<p>The world needs to produce <a href=\"http://www.worldbank.org/en/topic/foodsecurity/overview#1\">at least 50% more food to feed 9 billion people by 2050</a>. But climate change and changing landscapes could reduce crop yields by more than a quarter.&nbsp;</p><p>Unless we change how we grow our food, food security&mdash;especially for the world&rsquo;s poorest&mdash;will be at risk.</p><p>Many governments, NGOs and businesses&nbsp;are tackling the issue of food security, although they need the support of those on the ground - across input, production and output agribusinesses -&nbsp;to&nbsp;succeed.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
   }
 ]
