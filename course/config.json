@@ -29,6 +29,26 @@
   "_licencePage": {
     "licence": "CC-BY-SA 4.0"
   },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "The Open Data Institute",
+        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>",
+        "_graphic": {
+          "alt": "The Open Data Institute",
+          "src": "adapt/css/assets/logo-small.png"
+        }
+      },
+      {
+        "title": "Adapt eLearning",
+        "description": "<p>Open source learning platform developed by&nbsp;Adapt eLearning.</p>",
+        "_graphic": {
+          "alt": "Adapt eLearning",
+          "src": "adapt/css/assets/adapt.png"
+        }
+      }
+    ]
+  },
   "_trackingHub": {
     "_channels": [
       {
@@ -54,15 +74,16 @@
     "includes": [
       "adapt-theme-coi",
       "adapt-contrib-boxMenu",
-      "adapt-odi-licence",
-      "adapt-contrib-tutor",
-      "adapt-skillsFramework",
-      "adapt-contrib-pageLevelProgress",
       "adapt-trackingHub",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-skillsFramework",
+      "adapt-contrib-tutor",
+      "adapt-odi-licence",
+      "adapt-contrib-aboutPage",
       "adapt-contrib-graphic",
-      "adapt-contrib-accordion",
       "adapt-contrib-text",
       "adapt-contrib-narrative",
+      "adapt-contrib-accordion",
       "adapt-contrib-mcq"
     ]
   }

@@ -22,8 +22,8 @@
     "title": "  "
   },
   {
-    "_id": "582c39494d7b7e82691e4403",
-    "_parentId": "582c39494d7b7e82691e4402",
+    "_id": "58ecd288d084d5167a04d622",
+    "_parentId": "58ecd288d084d5167a04d620",
     "_type": "article",
     "_isAvailable": true,
     "_isOptional": false,
@@ -31,5 +31,38 @@
     "body": "",
     "displayTitle": "  ",
     "title": "  "
+  },
+  {
+    "_id": "58ff1a15d084d5167a04e062",
+    "_parentId": "58ff1a15d084d5167a04e061",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Article #1 - Main content",
+    "title": "Article #1 - Main content"
+  },
+  {
+    "_id": "590049f7d084d5167a04e104",
+    "_parentId": "58ff1a15d084d5167a04e061",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Article #2 - Assessment",
+    "title": "Article #2 - Assessment"
+  },
+  {
+    "_id": "59005427d084d5167a04e134",
+    "_parentId": "58ff1a15d084d5167a04e061",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Article #3 - Footer",
+    "title": "Article #3 - Footer"
   }
 ]

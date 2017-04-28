@@ -13,7 +13,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>Using open data in agriculture can help make processes more&nbsp;efficient, target decision making and promote collaboration. In this module, we look at what open data is and&nbsp;how it can benefit the agricultural sector, with examples of where open data is already being used.</p>\n",
+    "body": "<p>Using open data in agriculture can help make processes more&nbsp;efficient, target decision making and promote collaboration. In this module, we look at what open data is and&nbsp;how it can benefit the agricultural sector, with examples of where open data is already being used.</p>",
     "displayTitle": "Open Data and Agriculture",
     "title": "Open Data and Agriculture",
     "_skillsFramework": {
@@ -35,12 +35,12 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
@@ -90,9 +90,9 @@
   {
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/bd30e4ecd854513062c206bad6887739ca010b93.png"
     },
-    "_id": "582c39494d7b7e82691e4402",
+    "_id": "58ecd288d084d5167a04d620",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -100,19 +100,68 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "hidden",
-    "body": "",
-    "displayTitle": "Creating modules ",
-    "title": "Creating modules ",
+    "_classes": "",
+    "body": "<p>eLearning helps you reach people that you would never be able to reach in a classroom alone. This module introduces what you need to know to start writing engaging eLearning.</p>",
+    "displayTitle": "Writing eLearning",
+    "title": "Writing eLearning",
     "_skillsFramework": {
       "_skills": []
     },
+    "_trackingHub": {
+      "_pageID": ""
+    },
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/4e00290d31cd5ec2e9898fd4cf1ccef2e38cb12b.jpg"
+    },
+    "_id": "58ff1a15d084d5167a04e061",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Adapt eLearning is a multi-award winning tool for developing engaging and advanced eLearning.</p><p>In this module we explore&nbsp;how an Adapt eLearning page is structured and how you can develop engaging eLearning using the tool.</p>",
+    "displayTitle": "Getting started with Adapt eLearning",
+    "title": "Getting started with Adapt eLearning",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe the structure and components of a course created in Adapt",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Use theme to improve the visual look of a course",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Prepare a course for deployment",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Analyse where plugins can be used to improve a course",
+          "credits": 5,
+          "level": "practitioner"
+        }
+      ]
     },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   }
 ]

@@ -1,25 +1,8 @@
 {
   "_globals": {
-    "_components": {
-      "_mcq": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
-      },
-      "_narrative": {
-        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
-      },
-      "_text": {
-        "ariaRegion": ""
-      },
-      "_graphic": {
-        "ariaRegion": ""
-      },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      }
-    },
     "_accessibility": {
-      "_accessibilityToggleTextOn": "Turn accessibility on?",
-      "_accessibilityToggleTextOff": "Turn accessibility off?",
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
       "_accessibilityInstructions": {
         "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
         "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
@@ -53,6 +36,23 @@
         "menuIndicatorHeading": "Menu item heading "
       }
     },
+    "_components": {
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      }
+    },
     "_extensions": {
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
@@ -65,40 +65,40 @@
   },
   "_id": "course",
   "_start": {
-    "_isMenuDisabled": false,
-    "_force": false,
+    "_isEnabled": false,
     "_startIds": [],
-    "_isEnabled": false
+    "_force": false,
+    "_isMenuDisabled": false
   },
   "_type": "course",
   "_lockType": "",
   "_classes": "",
   "_buttons": {
-    "disabledAriaLabel": "This button is disabled at the moment",
-    "remainingAttemptText": "final attempt",
-    "remainingAttemptsText": "remaining attempts",
-    "_showFeedback": {
-      "ariaLabel": "Show feedback",
-      "buttonText": "Show feedback"
-    },
-    "_hideCorrectAnswer": {
-      "ariaLabel": "Hide correct answer",
-      "buttonText": "Hide correct answer"
-    },
-    "_showCorrectAnswer": {
-      "ariaLabel": "Show correct answer",
-      "buttonText": "Show correct answer"
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
     },
     "_reset": {
-      "ariaLabel": "Reset",
-      "buttonText": "Reset"
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
     },
-    "_submit": {
-      "ariaLabel": "Submit",
-      "buttonText": "Submit"
-    }
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
   },
-  "_latestTrackingId": 24,
+  "_latestTrackingId": 48,
   "body": "",
   "displayTitle": "Caribbean School of Data",
   "title": "Caribbean School of Data",
